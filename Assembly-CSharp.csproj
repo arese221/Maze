@@ -68,6 +68,7 @@
     <Compile Include="Assets\GoalLevel1.cs" />
     <Compile Include="Assets\GoalLevel2.cs" />
     <Compile Include="Assets\GoalLevel3.cs" />
+    <Compile Include="Assets\NewScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/aldo.r809/Desktop/Unity/Maze/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
